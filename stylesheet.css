@@ -1,0 +1,30 @@
+.navbar {
+	background-color: #B5F3DC;
+}
+
+.nav :hover {
+	background-color: white;
+} 
+
+/*.navbar-brand, footer p*/ #logo {
+	font-family: 'Italianno', cursive;
+	font-weight: 400;
+	font-size: 30px;
+}
+
+#myCarousel {
+	background-color: #89E3C1;
+}
+
+.jumbotron {
+	background-color: #89E3C1;
+	color: white;
+}
+
+footer .glyphicon {
+	color: #45B48A;
+}
+
+footer {
+	background-color: #d6d8d7;
+}
